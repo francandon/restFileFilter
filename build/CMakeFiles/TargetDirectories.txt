@@ -1,0 +1,7 @@
+/home/fran/restFileIndexer/build/CMakeFiles/restFileSystemIndexer.dir
+/home/fran/restFileIndexer/build/CMakeFiles/edit_cache.dir
+/home/fran/restFileIndexer/build/CMakeFiles/rebuild_cache.dir
+/home/fran/restFileIndexer/build/CMakeFiles/list_install_components.dir
+/home/fran/restFileIndexer/build/CMakeFiles/install.dir
+/home/fran/restFileIndexer/build/CMakeFiles/install/local.dir
+/home/fran/restFileIndexer/build/CMakeFiles/install/strip.dir
