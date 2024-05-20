@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/main.dir/main.cpp.o -o main  -Wl,-rpath,/home/fran/restFileIndexerMacro/build libpostgres.so /usr/lib/x86_64-linux-gnu/libpq.so 

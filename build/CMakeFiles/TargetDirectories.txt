@@ -1,0 +1,4 @@
+/home/fran/restFileIndexerMacro/build/CMakeFiles/postgres.dir
+/home/fran/restFileIndexerMacro/build/CMakeFiles/main.dir
+/home/fran/restFileIndexerMacro/build/CMakeFiles/edit_cache.dir
+/home/fran/restFileIndexerMacro/build/CMakeFiles/rebuild_cache.dir
