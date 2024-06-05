@@ -17,11 +17,11 @@ Rigth now, there are 4 methods that allows you to make simple queries:
 In this example we connect to the database, then make some queries. For example we obtain the files from TRestRun which fRunNumber is 1664:
 ```
 std::string conninfo = "host=localhost port=5432 dbname=postgres user=postgres password=password";
-    PostgresDB db(conninfo);
-    db.showTables();
-    db.showColumns("files");
-    db.showValues("TRestRun", "fEndTime");
-    db.filteringQuery("TRestRun", "fRunNumber", "1664");
+PostgresDB db(conninfo);
+db.showTables();
+db.showColumns("files");
+db.showValues("TRestRun", "fEndTime");
+db.filteringQuery("TRestRun", "fRunNumber", "1664");
 ```
 ## Compilation
 In order for ROOT to access to the library we just created you must type on the terminal, or place it on your bashrc: 
